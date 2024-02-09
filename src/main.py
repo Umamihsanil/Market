@@ -12,6 +12,7 @@ stock_anggur = 7
 
 # Meminta input jumlah buah kepada user
 
+print('Selamat Datang')
 while True:
     n_apel = int(input('Masukkan jumlah apel: '))
     if n_apel >= stock_apel:
